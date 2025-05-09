@@ -12,5 +12,3 @@ Build your own competitive chess engine in 8 weeks! This project combines **clas
 
 ## 📅 Commitment
 Expect ~5 hours/week. It’s a bit hectic but super rewarding!
-
-## 🗂️ Project Structure (Sample)
